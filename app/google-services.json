@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "247334012801",
+    "firebase_url": "https://moygac-e9471.firebaseio.com",
+    "project_id": "moygac-e9471",
+    "storage_bucket": "moygac-e9471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247334012801:android:1ee4eed8ac1e8af1",
+        "android_client_info": {
+          "package_name": "com.example.vicky.moygac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247334012801-ubdi4b6psqlf0maslhkrlaui3m2d3jl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3InxHBHR2gLHo094KNK5GC5j2j9I720"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

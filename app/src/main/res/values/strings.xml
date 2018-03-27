@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoyGAC</string>
+    <string name="firstWelcome">TextView</string>
+    <string name="welcome_to_club_moy">Welcome to Club Moy</string>
+    <string name="moyCrest">TODO</string>
+    <string name="passwordLogin">Enter Password</string>
+    <string name="emailLogin">Enter Email Address</string>
+    <string name="login">LOGIN</string>
+    <string name="newUser">New User? Sign up here!</string>
+    <string name="register">register</string>
+    <string name="registerCrest">TODO</string>
+    <string name="title_activity_where_are_we">WhereAreWe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
